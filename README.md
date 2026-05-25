@@ -1,2 +1,2 @@
-# apnacollege-demo
+# Demo
 This is my first contribution
